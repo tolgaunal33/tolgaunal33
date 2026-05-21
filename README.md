@@ -32,17 +32,6 @@ I am particularly interested in roles that combine analytics with operations, wh
 
 ---
 
-## Tech Stack
-
-* SQL
-* Python (Pandas, NumPy, Matplotlib)
-* Power BI & Tableau
-* Amazon QuickSight
-* Excel
-* Git & GitHub
-
----
-
 ## Interests
 
 * Data Analytics
@@ -58,14 +47,16 @@ I am particularly interested in roles that combine analytics with operations, wh
 ### 🛠 Tools & skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 
 ---
 
