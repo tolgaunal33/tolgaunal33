@@ -30,18 +30,6 @@ I am particularly interested in roles that combine analytics with operations, wh
 
 ---
 
-## Interests
-
-* Data Analytics
-* Operational Excellence
-* Supply Chain & Transportation Operations
-* Process Optimization
-* KPI & Performance Tracking
-* Business Intelligence
-
-
----
-
 ### 🛠 Tools & skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
