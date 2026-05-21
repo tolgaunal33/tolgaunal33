@@ -6,7 +6,52 @@
 
 ### About me
 
-I'm a compliance professional at Amazon with hands-on experience in data pipelines, AutoML rule writing, and LLM-assisted workflows. I recently completed a data analytics bootcamp and I'm actively building projects to make the transition into a full-time data analyst role.
+# About Me
+
+Hi, I'm Tolga.
+
+I am currently working at Amazon Poland within RISC Operations as a Senior Product Classification Associate, where I focus on compliance operations, product classification, and operational analytics across multiple EU marketplaces.
+
+Over the past few years, I have developed a strong interest in data analytics and operational decision-making. I enjoy working with data to identify patterns, measure performance, and support process improvements in large-scale operational environments.
+
+To strengthen my analytical and technical skills, I completed a 400+ hour Data Analytics Bootcamp at Ironhack, where I worked on projects involving SQL, Python, Power BI, data visualization, and exploratory data analysis.
+
+I also developed an end-to-end analytics project focused on the impact of short-term rentals on housing affordability in Barcelona, combining SQL, Python, and Power BI to analyze large datasets and generate operational and socioeconomic insights.
+
+Currently, I continue improving my skills in:
+
+* SQL
+* Python
+* Data Analysis & Visualization
+* Power BI & QuickSight
+* Operational Analytics
+* KPI & Performance Analysis
+* Process Improvement
+
+I am particularly interested in roles that combine analytics with operations, where data can directly support decision-making and improve large-scale processes.
+
+---
+
+## Tech Stack
+
+* SQL
+* Python (Pandas, NumPy, Matplotlib)
+* Power BI & Tableau
+* Amazon QuickSight
+* Excel
+* Git & GitHub
+
+---
+
+## Interests
+
+* Data Analytics
+* Operational Excellence
+* Supply Chain & Transportation Operations
+* Process Optimization
+* KPI & Performance Tracking
+* Business Intelligence
+
 
 ---
 
@@ -20,6 +65,7 @@ I'm a compliance professional at Amazon with hands-on experience in data pipelin
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -29,7 +75,7 @@ I'm a compliance professional at Amazon with hands-on experience in data pipelin
 |---|---|---|
 | 🏠 [Barcelona Housing Affordability](https://github.com/tolgaunal33/Barcelona_Housing_Affordability_Project) | How short-term rentals impact housing costs in Barcelona | Python, pandas, seaborn |
 | 🚗 [Car Price Prediction](https://github.com/tolgaunal33/Project_ML_Car_Price_Prediction) | ML model for predicting used car prices | scikit-learn, pandas |
-| 🦈 [Shark Attacks Data Cleaning](https://github.com/tolgaunal33/project-shark-attacks-data-cleaning) | End-to-end pandas data cleaning pipeline | Python, pandas |
+| 🧪 [Vanguard A/B Test Analysis](https://github.com/tolgaunal33/project-vanguard-ab-test) | Statistical analysis of UX experiment for a financial services firm | Python, scipy, pandas |
 
 ---
 
