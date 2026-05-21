@@ -8,8 +8,6 @@
 
 # About Me
 
-Hi, I'm Tolga.
-
 I am currently working at Amazon Poland within RISC Operations as a Senior Product Classification Associate, where I focus on compliance operations, product classification, and operational analytics across multiple EU marketplaces.
 
 Over the past few years, I have developed a strong interest in data analytics and operational decision-making. I enjoy working with data to identify patterns, measure performance, and support process improvements in large-scale operational environments.
