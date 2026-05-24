@@ -50,7 +50,7 @@ I am particularly interested in roles that combine analytics with operations, wh
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏠 [Barcelona_STR_Impact_Analysis](https://github.com/tolgaunal33/Barcelona_Housing_Affordability_Project) | How short-term rentals impact housing costs in Barcelona | Python, pandas, seaborn |
+| 🏠 [Barcelona STR Impact_Analysis](https://github.com/tolgaunal33/Barcelona_Housing_Affordability_Project) | How short-term rentals impact housing costs in Barcelona | Python, pandas, seaborn |
 | 🚗 [Car Price Prediction](https://github.com/tolgaunal33/Project_ML_Car_Price_Prediction) | ML model for predicting used car prices | scikit-learn, pandas |
 | 🧪 [Vanguard A/B Test Analysis](https://github.com/tolgaunal33/project-vanguard-ab-test) | Statistical analysis of UX experiment for a financial services firm | Python, scipy, pandas |
 
