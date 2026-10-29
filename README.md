@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tolga — Data Analyst in the making
 
-📍 Poland/Spain  |  🏢 Amazon (Product Compliance)  |  🎯 Transitioning to Data Analytics
+🏢 Amazon (Analytics Specialist)
 
 ---
 
