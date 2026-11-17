@@ -1,32 +1,36 @@
-## 👋 Hi, I'm Tolga — Data Analyst in the making
+## 👋 Hi, I'm Tolga — Data Analyst
 
 🏢 Amazon (Analytics Specialist)
 
 ---
 
-### About me
-
 # About Me
 
-I am currently working at Amazon Poland within RISC Operations as a Senior Product Classification Associate, where I focus on compliance operations, product classification, and operational analytics across multiple EU marketplaces.
+I am currently working as a **VF Analytics Specialist at Amazon Spain**, focusing on operational analytics, shipping cost analysis, and performance optimization across the European fulfillment network.
 
-Over the past few years, I have developed a strong interest in data analytics and operational decision-making. I enjoy working with data to identify patterns, measure performance, and support process improvements in large-scale operational environments.
+My work involves writing SQL queries, analyzing operational and cost performance, investigating root causes, and developing data-driven recommendations to improve network efficiency and reduce costs. I am particularly interested in turning complex operational data into actionable business insights.
 
-To strengthen my analytical and technical skills, I completed a 400+ hour Data Analytics Bootcamp at Ironhack, where I worked on projects involving SQL, Python, Power BI, data visualization, and exploratory data analysis.
+I have a background in operations and compliance, with several years of experience in large-scale Amazon operational environments across European marketplaces. This experience has given me a strong understanding of operational processes, performance metrics, and data-driven problem-solving.
 
-I also developed an end-to-end analytics project focused on the impact of short-term rentals on housing affordability in Barcelona, combining SQL, Python, and Power BI to analyze large datasets and generate operational and socioeconomic insights.
+To build on this experience, I completed a **400+ hour Data Analytics Bootcamp at Ironhack**, where I developed practical skills through hands-on projects involving SQL, Python, Pandas, Power BI, Tableau, exploratory data analysis, and data visualization.
 
-Currently, I continue improving my skills in:
+One of my key projects was an end-to-end analysis of **Barcelona Housing Affordability and the Impact of Short-Term Rentals**, combining data collection, SQL, Python, and Power BI to investigate housing market trends and generate data-driven insights.
 
-* SQL
-* Python
-* Data Analysis & Visualization
-* Power BI & QuickSight
-* Operational Analytics
-* KPI & Performance Analysis
-* Process Improvement
+### Areas of Interest & Development
 
-I am particularly interested in roles that combine analytics with operations, where data can directly support decision-making and improve large-scale processes.
+- SQL & Data Analysis
+- Python & Pandas
+- Business & Operations Analytics
+- Supply Chain & Logistics Analytics
+- Power BI & Data Visualization
+- KPI & Performance Analysis
+- Root Cause Analysis
+- Cost Optimization & Process Improvement
+- Data-Driven Decision Making
+
+I am continuously developing my technical and analytical skills, with a particular focus on combining data analysis with real-world business challenges and operational decision-making.
+
+**My goal is to build a career in Business and Data Analytics, using data to uncover insights, solve complex problems, and drive measurable business impact.**
 
 ---
 
